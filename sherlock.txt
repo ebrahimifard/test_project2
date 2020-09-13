@@ -1,0 +1,4 @@
+Sherlock
+genre: drama, mystry
+seasons: 5 (so far)
+score: 7.5/10
