@@ -1,4 +1,4 @@
 Sherlock
-genre: drama, mystry
+genre: drama, mystry, romance
 seasons: 5 (so far)
 score: 7.5/10
